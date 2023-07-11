@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
  0 "pbytapp.pbt";
  1 "pbgcapp.pbt";
 @end;
-DefaultTarget "pbytapp.pbt";
-DefaultRemoteTarget "pbytapp.pbt";
+DefaultTarget "pbgcapp.pbt";
+DefaultRemoteTarget "pbgcapp.pbt";
